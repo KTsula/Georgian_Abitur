@@ -8,6 +8,8 @@ Unfortunately you can not add you own notes to those at the moment, but you can 
 
 The app is published on Google Play - https://play.google.com/store/apps/details?id=com.abitur.AbiturGeo
 
+The app is not being maintained currently.
+
 The UI of the app.
 <br>
 <img src="https://user-images.githubusercontent.com/64359365/235457974-ffe00364-90c0-41d7-8de3-71cdff101be5.jpg"  width="200" />
